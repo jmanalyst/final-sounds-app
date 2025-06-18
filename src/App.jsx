@@ -197,7 +197,7 @@ function HomePage({ setPage }) {
             className="absolute top-1/2 left-1/2 min-w-full min-h-full w-auto h-auto -translate-y-1/2 -translate-x-1/2 object-cover"
           >
             {/* Replace 'gtrbgvid.mov' with the actual path to your video file. Consider using .mp4 for wider compatibility. */}
-            <source src="gtrbgvid.mov" type="video/mp4" />
+            <source src="gtrbgvid.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
